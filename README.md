@@ -1,17 +1,6 @@
-# Jarvis Desktop Voice Assistant🔥
+# ALL IN ONE ASSISTANCE🔥
 
-<img src="https://giffiles.alphacoders.com/212/212508.gif" alt="">
-
-**Have you ever wondered how cool it would be to have your own assistant? Imagine how easier it would be doing Wikipedia searches without opening web browsers, and performing many other daily tasks like playing music with the help of a single voice command, opening different browsers in just a voice command.**
-
-**This project is simple desktop voice assistant built with python named as “Jarvis Desktop Voice Assistant”. This project is fully completed and error free. It was compiled in VS Code Editor.**
-
-**🔸 Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.**
-
-## 📌Built with
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+**This project is simple desktop voice assistant built with python named as “all in one assistance”. This project is fully completed and error free. It was compiled in VS Code Editor.**
 ## 📌Features
 
 It can do a lot of cool things, some of them being:
@@ -49,19 +38,3 @@ Python 3.6+
 ## 📌Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📌Author
-
-👤 **Kishan Kumar Rai**
-
-- Twitter: [@kishan_rajput23](https://twitter.com/kishan_rajput23)
-- Github: [@kishanrajput23](https://github.com/kishanrajput23)
-- LinkedIn: [@kishan-kumar-rai](https://linkedin.com/in/kishan-kumar-rai-23112000)
-
-## 📌Show your support
-
-Please ⭐️ this repository if this project helped you!
-
-## 📌License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
