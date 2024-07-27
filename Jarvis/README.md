@@ -1,7 +1,5 @@
 # 📌Introduction
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Cover_pic.jpg" alt="">
-
 - A virtual assistant, also called an AI assistant or digital assistant, is an application program that understands natural language voice commands and completes tasks for the user. The whole concept based on how can we make our life easier or how can we automate the things by just using our voice command. When the project is being executed then first of all it greets the user as per the time. After that it just listen your command in form of voice and just that that thing according to your command.
 
 - It is implemented in **“PYTHON Programming Language”** in which implementation is very easy. For every sort of work there is module present in python which makes the thing very easy and effective to do. It is user friendly and easy to understandable for beginner.
@@ -40,45 +38,8 @@
 - Pyautogui is a library that allows you to control the mouse and keyboard to do various things.
 - In this project we use this library for taking screenshots of the screen.
 
-# 📌Features 
 
-### 👉 1. Greet the user
-
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture1.png" alt="">
-
-### 👉 2. Tell current time & date
-
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture2.png" alt="">
-
-### 👉 3. Search something on Wikipedia
-
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture3.png" alt="">
-
-### 👉 4. Open any Website
-
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture4.png" width="480"/> <img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture5.png" width="480"/>
-
-### 👉 5. Plays Music
-
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture6.png" alt="">
-
-### 👉 6. Can search anything on Google
-
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture7.png" width="480"/> <img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture8.png" width="480"/> 
-
-### 👉 7. Take important note in text file
-
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture9.png" alt="">
-
-### 👉 8. Take Screenshots and save it with custom filename
-
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture10.png" alt="">
-
-### 👉 9. Finally make Assistant offline
-
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture11.png" alt="">
-
-# 📌WHY TO USE JARVIS?
+# 📌WHY TO USE?
 
 1. It fulfils the own personnel desktop voice assistant.
 
@@ -102,6 +63,6 @@
 
 - Through this voice assistant, we have automated various services using a single line command. It eases most of the tasks of the user like searching the web, retrieving weather forecast details, vocabulary help and medical related queries. 
 
-- We aim to make this project a complete server assistant and make it smart enough to act as a replacement for a general server administration. The future plans include integrating Jarvis with mobile using React Native to provide a synchronized experience between the two connected devices. 
+- We aim to make this project a complete server assistant and make it smart enough to act as a replacement for a general server administration. The future plans include integrating Robo with mobile using React Native to provide a synchronized experience between the two connected devices. 
 
-- Further, in the long run, Jarvis is planned to feature auto deployment supporting elastic beanstalk, backup files, and all operations which a general Server Administrator does. The functionality would be seamless enough to replace the Server Administrator with Jarvis. 
+- Further, in the long run, Robo is planned to feature auto deployment supporting elastic beanstalk, backup files, and all operations which a general Server Administrator does. The functionality would be seamless enough to replace the Server Administrator with Robo. 
