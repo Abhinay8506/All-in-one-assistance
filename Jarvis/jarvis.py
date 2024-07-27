@@ -51,8 +51,8 @@ def wishme() -> None:
     else:
         speak("Good Night Sir, See You Tommorrow")
 
-    speak("Jarvis at your service sir, please tell me how may I help you.")
-    print("Jarvis at your service sir, please tell me how may I help you.")
+    speak("Robo at your service sir, please tell me how may I help you.")
+    print("Robo at your service sir, please tell me how may I help you.")
 
 
 def screenshot() -> None:
@@ -92,8 +92,8 @@ if __name__ == "__main__":
             date()
 
         elif "who are you" in query:
-            speak("I'm JARVIS created by Mr. Kishan and I'm a desktop voice assistant.")
-            print("I'm JARVIS created by Mr. Kishan and I'm a desktop voice assistant.")
+            speak("I'm Robo  and I'm a desktop voice assistant.")
+            print("I'm Robo  and I'm a desktop voice assistant.")
 
         elif "how are you" in query:
             speak("I'm fine sir, What about you?")
